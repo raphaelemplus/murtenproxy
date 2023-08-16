@@ -11,3 +11,30 @@ settings:
   viewer: default
   widgets: comment-with-purpose, tag, geotagging
 version: '2.0'
+vocab:
+- label: Person
+  uri: http://dbpedia.org/ontology/Person
+- label: MilitaryPerson
+  uri: http://dbpedia.org/ontology/MilitaryPerson
+- label: MilitaryUnit
+  uri: http://dbpedia.org/ontology/MilitaryUnit
+- label: Place
+  uri: http://dbpedia.org/ontology/Place
+- label: Weapon
+  uri: http://dbpedia.org/ontology/Weapon
+- label: Armour
+  uri: http://dbpedia.org/resource/Body_armor
+- label: Object
+  uri: http://dbpedia.org/resource/Man_Made_Object
+- label: Costume
+  uri: http://dbpedia.org/resource/Costume
+- label: Heraldry
+  uri: http://dbpedia.org/resource/Heraldry
+- label: Shield
+  uri: http://dbpedia.org/resource/Shield
+- label: Animal
+  uri: http://dbpedia.org/ontology/Animal
+- label: Plant
+  uri: http://dbpedia.org/ontology/Plant
+- label: Event
+  uri: http://dbpedia.org/ontology/Event
