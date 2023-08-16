@@ -1,5 +1,11 @@
 images:
-- 
+- added: '2023-08-16 08:59:01.417954'
+  iiif: true
+  thumbnail: https://iipsrv-murtenproxy.fly.dev/iipsrv/iipsrv.fcgi?IIIF=/data/Panorama_gross_work_NEU_48000px_details.ptif/full/120,/0/default.jpg
+  title: Murten Panorama (Proxy)
+  url: https://iipsrv-murtenproxy.fly.dev/murtenproxy.json
+- null
+manifests: []
 settings:
   tempuser: notenabled
   viewer: default
