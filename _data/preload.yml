@@ -4,13 +4,8 @@ images:
   thumbnail: https://iipsrv-murtenproxy.fly.dev/iipsrv/iipsrv.fcgi?IIIF=/data/Panorama_gross_work_NEU_48000px_details.ptif/full/120,/0/default.jpg
   title: Murten Panorama (Proxy)
   url: https://iipsrv-murtenproxy.fly.dev/murtenproxy.json
-- null
-manifests: []
-settings:
-  tempuser: notenabled
-  viewer: default
-  widgets: comment-with-purpose, tag, geotagging
-version: '2.0'
+settings: {}
+version: '2.1'
 vocab:
 - label: Person
   uri: http://dbpedia.org/ontology/Person
